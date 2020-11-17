@@ -7,3 +7,4 @@ que faz requisições de uma API de cryptomoedas.
 Tecnologias:
 - HTML5
 - JavaScript
+- Bootstrap
